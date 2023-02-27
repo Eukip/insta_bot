@@ -1,0 +1,6 @@
+INSTAGRAM = 1
+FACEBOOK = 2
+SOCIAL_MEDIA_CHOICES = (
+  (INSTAGRAM, 'Instagram'),
+  (FACEBOOK, 'Facebook'),
+)
